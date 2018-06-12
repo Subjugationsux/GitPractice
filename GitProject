@@ -1,0 +1,15 @@
+I don't recall my best answers to Wyncode questions. However I am proud of the css code from the CodePen challenge
+
+section  p {
+  color: pink;
+}
+
+p .cat.dog {
+  color: green;
+    }
+
+
+p .cat, .dog {
+  color: red;
+
+}
